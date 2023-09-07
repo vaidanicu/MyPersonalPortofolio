@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e682e960.css",
+    "main.js": "./static/js/main.39704a3c.js",
+    "static/media/MontyHouseAgency.png": "./static/media/MontyHouseAgency.270e47033edcb05a728a.png",
+    "static/media/Quiz-Game.png": "./static/media/Quiz-Game.1b3e0789e06f553a41f8.png",
+    "static/media/ProjectSocial.png": "./static/media/ProjectSocial.520a108481bb794019c7.png",
+    "static/media/E-sport.png": "./static/media/E-sport.547b913c78a826d2412a.png",
+    "static/media/TaskManager.png": "./static/media/TaskManager.f5d63baae243db41d876.png",
+    "index.html": "./index.html",
+    "main.e682e960.css.map": "./static/css/main.e682e960.css.map",
+    "main.39704a3c.js.map": "./static/js/main.39704a3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e682e960.css",
+    "static/js/main.39704a3c.js"
+  ]
+}
